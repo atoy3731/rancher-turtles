@@ -1,7 +1,7 @@
 rancherTurtles:
   image: controller
   tag: v0.0.0
-  imagePullPolicy: Never
+  imagePullPolicy: Always
   namespace: rancher-turtles-system
   managerArguments: []
   imagePullSecrets: []
