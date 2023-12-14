@@ -1,5 +1,5 @@
 rancherTurtles:
-  image: controller
+  image: registry.rancher.com/rancher/rancher-sandbox/controller
   tag: v0.0.0
   imagePullPolicy: Always
   namespace: rancher-turtles-system
